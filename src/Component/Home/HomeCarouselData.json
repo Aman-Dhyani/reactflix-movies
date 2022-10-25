@@ -1,0 +1,326 @@
+{
+    "Result": [
+        {
+            "id": 1,
+            "left": "0%",
+            "Title": "Spider-Man: No Way Home",
+            "Year": "2021",
+            "imdbID": "tt10872600",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",
+            "storyline": "With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "trailer": "https://www.youtube.com/embed/JfVOs4VSpmA",
+            "cast": [
+                {
+                    "name": "Tom Holland",
+                    "pic": "https://resizing.flixster.com/c4CA_VOVWFgrHSu_58X62pmmj0k=/218x280/v2/https://flxt.tmsimg.com/assets/733885_v9_bb.jpg"
+                },
+                {
+                    "name": "Zendaya",
+                    "pic": "https://media.glamour.com/photos/6339e487529d6fc8b9d4da67/master/w_2560%2Cc_limit/1429649795.jpeg"
+                },
+                {
+                    "name": "Tobey Maguire",
+                    "pic": "https://www.onthisday.com/images/people/tobey-maguire-medium.jpg"
+                },
+                {
+                    "name": "Andrew Garfield",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-PhABWNuX2jnZjm6Gh0I8YiAWUdpjd1dRy9Ub7lNuUwPWSReF3BCcaEpeop4WiJ4Kpk&usqp=CAU"
+                },
+                {
+                    "name": "Benedict c..",
+                    "pic": "https://media.vanityfair.com/photos/62753eaaeddf13ef7f5bedf6/3:4/w_999,h_1332,c_limit/doctor-strange-in-the-multiverse-of-madness-premiere-2022-benedict-cumberbatch.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "left": "100%",
+            "Title": "Avengers: Endgame",
+            "Year": "2019",
+            "imdbID": "tt4154796",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+            "storyline": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+            "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c",
+            "cast": [
+                {
+                    "name": "RDJ",
+                    "pic": "https://resizing.flixster.com/OOPw6FXLl1dvZXrlE73jckDTzpc=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvYTUxYzhlNTctMzg2OS00YWJjLWEwYmEtOWY1ZjE0Njg2ZWVlLmpwZw=="
+                },
+                {
+                    "name": "Chris Evans",
+                    "pic": "https://cdn.britannica.com/28/215028-050-94E9EA1E/American-actor-Chris-Evans-2019.jpg"
+                },
+                {
+                    "name": "Chris H..",
+                    "pic": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_.jpg"
+                },
+                {
+                    "name": "Scarlett Johansson",
+                    "pic": "https://resizing.flixster.com/_WMBACkzcg4y17_9aiGUawoF-ew=/218x280/v2/https://resizing.flixster.com/KLxcE36ZNENLC_23WoChmpOkvMA=/ems.ZW1zLXByZC1hc3NldHMvY2VsZWJyaXRpZXMvMzkzZTdmN2UtNDlhYi00NzllLWJlOTktZDVkYWU2ZWFmYzgwLmpwZw=="
+                },
+                {
+                    "name": "Mark Ruffalo",
+                    "pic": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/p197651/MarkRuffalo-2020_r.jpg"
+                },
+                {
+                    "name": "Jeremy Renner",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLeVJ7UUVX_tEes52daXRNP0Ax-pVS_hlOcQI1vKaCGd08BpDXhVfsINRk34Ra1Duk3OY&usqp=CAU"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "left": "200%",
+            "Title": "The Matrix",
+            "Year": "1999",
+            "imdbID": "tt0133093",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "storyline": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
+            "trailer": "https://www.youtube.com/embed/vKQi3bBA1y8",
+            "cast": [
+                {
+                    "name": "Keanu Reeves",
+                    "pic": "https://m.media-amazon.com/images/M/MV5BNGJmMWEzOGQtMWZkNS00MGNiLTk5NGEtYzg1YzAyZTgzZTZmXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg"
+                },
+                {
+                    "name": "Carrie-Anne Moss",
+                    "pic": "https://www.clarin.com/img/2021/12/13/carrie-anne-moss-es-madre___9Lu30yXoI_2000x1500__1.jpg"
+                },
+                {
+                    "name": "Laurence Fishburne",
+                    "pic": "https://pagesix.com/wp-content/uploads/sites/3/2022/06/Laurence-Fishburne-dating_77.jpg?quality=75&strip=all"
+                },
+                {
+                    "name": "Hugo Weaving",
+                    "pic": "https://s.yimg.com/ny/api/res/1.2/9eJpbBzq7ppG0AlNtCoJ0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/31c69e30-ee86-11ea-bdbf-81d88994ee76"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "left": "300%",
+            "Title": "Free Guy",
+            "Year": "2021",
+            "imdbID": "tt6264654",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+            "storyline": "When a bank teller discovers he's actually a background player in an open-world video game, he decides to become the hero of his own story -- one that he can rewrite himself. In a world where there's no limits, he's determined to save the day his way before it's too late, and maybe find a little romance with the coder who conceived him.",
+            "trailer": "https://www.youtube.com/embed/X2m-08cOAbc",
+            "cast": [
+                {
+                    "name": "Ryan Reynolds",
+                    "pic": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-953573946-1525365284.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=640:*"
+                },
+                {
+                    "name": "Jodie Comer",
+                    "pic": "https://i2-prod.hulldailymail.co.uk/news/uk-world-news/article6151961.ece/ALTERNATES/s615/0_Jodie-Comer-2.jpg"
+                },
+                {
+                    "name": "Joe Keery",
+                    "pic": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2019%2F07%2Fsteve-2000.jpg&q=60"
+                },
+                {
+                    "name": "Taika Waititi",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGX5URFce6E8La-Y5OF4Tmp1Jktks6lIgXMJ9HQOS76_x7Db718QIe0yTrpJQM17gjBow&usqp=CAU"
+                },
+                {
+                    "name": "Jacksepticeye",
+                    "pic": "https://variety.com/wp-content/uploads/2022/02/Jacksepticeye.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "left": "400%",
+            "Title": "John Wick: Chapter 2",
+            "Year": "2017",
+            "imdbID": "tt4425200",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_SX300.jpg",
+            "storyline": "Retired super-assassin John Wick's plans to resume a quiet civilian life are cut short when Italian gangster Santino D'Antonio shows up on his doorstep with a gold marker, compelling him to repay past favours. Ordered by Winston, the kingpin of secret assassin society The Continental, to respect the organisation's ancient code, Wick reluctantly accepts the assignment to travel to Rome to take out D'Antonio's sister, the ruthless capo atop the Italian Camorra crime syndicate.",
+            "trailer": "https://www.youtube.com/embed/ChpLV9AMqm4",
+            "cast": [
+                {
+                    "name": "Keanu Reeves",
+                    "pic": "https://m.media-amazon.com/images/M/MV5BNGJmMWEzOGQtMWZkNS00MGNiLTk5NGEtYzg1YzAyZTgzZTZmXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg"
+                },
+                {
+                    "name": "Laurence Fishburne",
+                    "pic": "https://pagesix.com/wp-content/uploads/sites/3/2022/06/Laurence-Fishburne-dating_77.jpg?quality=75&strip=all"
+                },
+                {
+                    "name": "Ian McShane",
+                    "pic": "https://i.guim.co.uk/img/media/2bdd5bba206e899c885ddc09ea795ae672f2e222/1889_523_3646_2187/master/3646.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=14494e72f941e2399ade5c73732f256b"
+                },
+                {
+                    "name": "Ruby Rose",
+                    "pic": "https://s24193.pcdn.co/wp-content/uploads/2017/06/ruby-rose-3-ENTITY-Instagram-rubyrose-e1498522364763.png"
+                },
+                {
+                    "name": "Riccardo Scamarcio",
+                    "pic": "data:image/jpeg;base64,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"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "left": "500%",
+            "Title": "Avengers: Infinity War",
+            "Year": "2018",
+            "imdbID": "tt4154756",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+            "storyline": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.",
+            "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+            "cast": [
+                {
+                    "name": "RDJ",
+                    "pic": "https://resizing.flixster.com/OOPw6FXLl1dvZXrlE73jckDTzpc=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvYTUxYzhlNTctMzg2OS00YWJjLWEwYmEtOWY1ZjE0Njg2ZWVlLmpwZw=="
+                },
+                {
+                    "name": "Chris Evans",
+                    "pic": "https://cdn.britannica.com/28/215028-050-94E9EA1E/American-actor-Chris-Evans-2019.jpg"
+                },
+                {
+                    "name": "Chris H..",
+                    "pic": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_.jpg"
+                },
+                {
+                    "name": "Scarlett Johansson",
+                    "pic": "https://resizing.flixster.com/_WMBACkzcg4y17_9aiGUawoF-ew=/218x280/v2/https://resizing.flixster.com/KLxcE36ZNENLC_23WoChmpOkvMA=/ems.ZW1zLXByZC1hc3NldHMvY2VsZWJyaXRpZXMvMzkzZTdmN2UtNDlhYi00NzllLWJlOTktZDVkYWU2ZWFmYzgwLmpwZw=="
+                },
+                {
+                    "name": "Mark Ruffalo",
+                    "pic": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/p197651/MarkRuffalo-2020_r.jpg"
+                },
+                {
+                    "name": "Josh Brolin",
+                    "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Josh_Brolin_Berlin_2016.jpg/220px-Josh_Brolin_Berlin_2016.jpg"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "left": "600%",
+            "Title": "The Adam Project",
+            "Year": "2022",
+            "imdbID": "tt2463208",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "storyline": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
+            "trailer": "https://www.youtube.com/embed/IE8HIsIrq4o",
+            "cast": [
+                {
+                    "name": "Ryan Reynolds",
+                    "pic": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-953573946-1525365284.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=640:*"
+                },
+                {
+                    "name": "Walker Scobell",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlCvqzv2YDHlRfufDnNt-RinslzSPGFKFRzYCi2WbuQ&s"
+                },
+                {
+                    "name": "Zoe Saldaña",
+                    "pic": "https://media1.popsugar-assets.com/files/thumbor/K_NzptF_dZglxkXstBCNctJVZZg/656x147:2130x1621/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/05/29/778/n/1922398/bcd4ce6e5ed14956880483.77311780_/i/Zoe-Saldana.jpg"
+                },
+                {
+                    "name": "Mark Ruffalo",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtq0LM7d0-gWAxa8t7AOPP0ei3nyNqQzYC48wK5ogf9hi-J2WSPxc83aeESwI1RRGJV0&usqp=CAU"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "left": "700%",
+            "Title": "Thor: Love and Thunder",
+            "Year": "2022",
+            "imdbID": "tt10648342",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "storyline": "Thor embarks on a journey unlike anything he's ever faced -- a quest for inner peace. However, his retirement gets interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods. To combat the threat, Thor enlists the help of King Valkyrie, Korg and ex-girlfriend Jane Foster, who -- to his surprise -- inexplicably wields his magical hammer. Together, they set out on a harrowing cosmic adventure to uncover the mystery of the God Butcher's vengeance.",
+            "trailer": "https://www.youtube.com/embed/Go8nTmfrQd8",
+            "cast": [
+                {
+                    "name": "Chris Evans",
+                    "pic": "https://cdn.britannica.com/28/215028-050-94E9EA1E/American-actor-Chris-Evans-2019.jpg"
+                },
+                {
+                    "name": "Natalie Portman",
+                    "pic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/natalie-portman-attends-the-92nd-annual-academy-awards-at-news-photo-1581294708.jpg?crop=1.00xw:0.667xh;0,0.0499xh&resize=480:*"
+                },
+                {
+                    "name": "Tessa Thompson",
+                    "pic": "https://www.hollywoodreporter.com/wp-content/uploads/2022/07/GettyImagesx-1241720509-H-2022.jpg"
+                },
+                {
+                    "name": "Christian Bale",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnLvvRJ30vnQNHzHzji90nxjC5Ctgv_TFfTyRZRiBhMLrX2h68pbZ5b4QEiAHKVyWbmKw&usqp=CAU"
+                },
+                {
+                    "name": "Taika Waititi",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGX5URFce6E8La-Y5OF4Tmp1Jktks6lIgXMJ9HQOS76_x7Db718QIe0yTrpJQM17gjBow&usqp=CAU"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "left": "800%",
+            "Title": "Top Gun: Maverick",
+            "Year": "2022",
+            "imdbID": "tt1745960",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
+            "storyline": "After more than 30 years of service as one of the Navy's top aviators, Pete Maverick Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.",
+            "trailer": "https://www.youtube.com/embed/qSqVVswa420",
+            "cast": [
+                {
+                    "name": "Tom Cruise",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp29E7pJsqLnUBw4fmLHf864QiHVoWk7aReoC_j7FMF7GqNsKqXMfHsrDopdI1FFgsYl0&usqp=CAU"
+                },
+                {
+                    "name": "Miles Teller",
+                    "pic": "data:image/jpeg;base64,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"
+                },
+                {
+                    "name": "Val Kilmer",
+                    "pic": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJAAggMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAABAgMEBQYHAAj/xAA6EAACAQMCBAMGBAQFBQAAAAABAgMABBEFIQYSMVETQWEHFCJxgZEyUqGxQsHR8BUzQ2KCIyRT4fH/xAAZAQACAwEAAAAAAAAAAAAAAAABAgADBAX/xAAkEQACAgIDAAIBBQAAAAAAAAAAAQIRAyESMUETFGEEIiNRcf/aAAwDAQACEQMRAD8Ayu9i5JDy9M0WCYI2DipeOyNxlsZpncaaUY7dKzKQZFt4cKSQ9N6kL4mP8IqB0FngJGd8VNyXas4VxUuiuiNkvWVvioIrpJDhcZqQexjuB8I+1Nk0cLNlQT6UGwCkUefi3z86U50zy5IPYmpG04f8eXw3k8FgcMucuPp+m+KNq+v6dwzFLb2VvBf3MGOfn5F8PPouCT9aru3SLY42+wLSxvZoxJHaOyfnOFH609msbyOHnktsR/m51/rVUn420ziCIf4tE9ncID4c0Er4QgeaE8pB38sg7Z3zQcPcZBfFW98Mr4b+KcEBiBsfXLefzxjbFji0MscX6SF2qwyOLgMjL1V9iPpTZdQtBKkQIJY4qVE2m64JdOuZcqY1kt5w3xRE/wAP6bj5GoKLhS4g1eJsmSJJAfEONwPTPmKfHCLexZQaLDq+iySacZkU55c5xVA5bySfw1LbHtW16jqESaL/AJZyy4C461RtIt4m1MOY8jO9XfWvaDDOkqYz0ng+eeIzXTNjHQ050ya207UjasVyO9X/AFe9t7HR3bAUhawDUr+WbU5bhXIPNtim+KKRXLI5m4CW0IB5hXViw17UAAPFNdS8BKLZBGkFtv5VHZ8aU4G1IXF40pKDIFSWk22/M5rCmaeNji3txGQTR5og7ACnk8Zb4VFGgs3RsyUxKOs7aeEcwIwPKpJJ0jZDy8zN0UDz6j9vrXMo5Vx1PlVc1+e0tr4RXPvMIlQNzxOVDeW+Adxjt5+lSV1SDCCu2L6hxPdrFdPbvbwxH4mMIwWby28tz5nvWd29jd6tdlYF5j+Y+tTl1cXev3a2lk8kgY4LSvnHqdh269a0bhfhOPSY15yGYjBNHHHgvyaElLspOlezq5nh5rg4JPQUvc+zu7UlIgxXHWtajbwsJy7U7jkBOeXNXU36M4x8RjtvwNrNtcCaLcpysSx22/8AtPYdSvLBltdRSRJQuAdgQPTPWtaNwojOMD9qrHHOkw6vpEc4iVp7Q+IjAbldgw+2/wBKRqt2I0ObHULTVeF47peTYFJOU7B12b+/lTnQtEhWHxyoBNUnhVYIlvrO3kY+NKkhVht0wdxsfLyHStRiZbXTOZhsq710IT/jTOXONZGjLfalqXu6e6xNu3lWWRrnc1P8Z6kdU1uYhsorYFRCqEFI2OByCuoc11LZCa0yHxJC5qyWUTO+EH1qH0GF52wgwKvujacIgHk7Vz0rNbdBtP08D4pKWvUSMbCnF5MkIGDUNfagHUhcUXoKVjgMoXOwqqcTCOS7NyXX/K8Pfr0Ocfc706mvXzhTn1pG/spbyxjm5ZBg4JYfC2Sdge/wnIqReyxRvoY8IW1xcX3/AEU+Hqx6YH9itVj+FCZOVUGMsxAH3NRfBWlw2GkeJ4ZMsx5mJO+B8zVc4qm1PUbll9yvWt0OyQgAH1ySBn70/Q8UXszQJuXVvMlWpRZEbdTt6nNYrcWc0Jinisr+GU5XleXmZcY6gdBvV1spNSThh79mKqoDZPXY0XKvCxRTXZe2iVwdzkfWmGpXS21pOW2VU33rLI+KdSln8a21jkVTjwyvw71bo7y81jQNRW8cPcRxEqw8xjP16UjkwOFEfwLZOdWv5+bmid15Dk+udu1XDjbV1sNDkCt8bDAqJ4EjC6QszLyljv64FVb2m6rzzLbI2yjeujHWNHJnvIygqeZ2c9WJOa5mpNX7UcYPWlYTvG9FrqU93XvQUpDW9C0aOzhBYeVPr3UEtVwvWmWqa1HbpyxkHaqnc30t0+1ZJNLSLUm3bJPUNVaV9jmm8EctyfSgsNPeUgkH61Y7a2itUy2CRVdF3LwjGsPDiL45fU1NWun3Ur6QTOyadHAWeJf9RypIB9dwfkKidS1BFBEe56DFWDRdWefT7G2azKhIzE8/P+IquRgeedutGNWXQdDyK7FuFBwoxgDNOZDa3sZScBhj87D9jUJqEyqcb7fYf3/OmcJkuJWjhbAA3bOwFPySZdGNomVsdHFyltAVM7AkRplmwOpPYb+dS4sE/wAMktQmUZcY6fpVKv8ASpbaB59JvHtr8/ilVeYOM5wRUTZcScT2rvatF40xyMyEAZ7+lNZGv6ZaouD7OO495tIbY5BBBjXp0K8wwceVSEGhWmlW0nu8IgVkK+GDkAem/c1E291qFldG+ZkIuVU3CRD4VcADI+3WpYXvvifAN874pdNiuLSsjoZF0nRIomIBVCe3Uk/zrGtc1BtS1Cafm+EscVbeO9cZIzDG5BfYVnyHOwroZGo1FHJhv9zFBmjLscjrRflQjY1SOLcz+tDSWT2NBUJRaUee9kHnVk0zSMDmcfel9K0tIV5mH6U+ubpYlIWsX+lzsUZo7dMLtioq9uXn+BBmhIlunwo2qWs7FUUDGWNVylegVRVNUuYtEsfertfEkY8sUf5z/TvUvwPf3d1wqLm7zKnvLhZgR8LbDkbH4dumeoNUn2j3qXOt+DC4aK1QRgqduY7t/IfSpr2J8RRadr0mi3wVrLVvgw/4RKAeXI/3fh+eK148dR32FZKdlmvLtZZDEXBGeYHNM5LM3sfKtwY2Yg4Q9T0qc404Sk0l3v7BHk05t3XOTbn1zuV9fLz71XdPvYo2xIpIbt3qqUWmb4ZIyWhx7itnEI5tbv4oztmFEH6hc0EEDnC2fFkmB0jmtOc/Lc1LsbFiDIxYEZC5GDRo9P0nxA8MISTrsSc/TNN4XJqiLuo9aAiYe7BVI5mjJAI89j0/WpPT74WIkuZVPhRklRj8R8v1oNSuY4Ry83Qj6VU+I9YX3N1hf4FJ6fxGhhxPJkvxGT9RmUIfllK4iu2utRbfPJt1plEKSJLuWY5J3NOIxtWuT5OznpUjgN6DoaMetA1KwAY9K6i5Pc0FQY1u51BUTCkbUxi57p8tstM7QNdPknI7ClrzVILH/pxASzg7rn4V+Z/lWGMJ5JVEslNIsMCx28ZywVV6ljgD61W+IuKZ2kMGky+HH+Fpgoy/fGRsP3qDvL2e8YG5lZ+ynYD5CmU0yIT/ABP5qvl8zXRxfpI49z7M0srl0Rd/AwQkb9j0zUfGWUgqxV1IKkHBB75qXuEaUFpt2PboKjJUKyY7jajNbHhLw9TezjideLOF4Lubl97jzDdpnpIPPHYjB+uPKqpx3wLc2StqnDcPjRDeawXqo7x9x/t+3as/9jHEp0Li5LSZgtnqYWCTJ6Pv4Z+5I/5V6WTcVW42WKTieaFvzfIrKWQH+EsCDtjrT2xe9EoEQ5vylnHX6ZrVOLeALbU5pNQ0rkgvW3ljOyTnufyt6jr596p0Vn/hMkxvYmge3Qu6MNxsd/36dqzTi0zfjyRlHspnE8z+/wBvYmZnlwZLnc43xyrjtsT9RUfrg5bIJ54qLXU2utWlvrjZpn5iM9Ow+2BT7VrpLhB4ZyK3YuMMVenMzcp5OXhCotLAbUCij+VVksTxvRH2o9EYZFRkoRz6muo2B3FdQGstKXclvByK/ISMFts4qOa7QtiPmY/7f601l1CWTLLGiAnbmHMaRF/cENloyo65XFXRlDGqgU8ZSdseT3D55E+Enqe1JoQB8PX1okXJMvMuQfMdTQP6HFK5NjcUKu5bI6HtTCf8SA9OanPMcHpSE7YCMegbfHao2FdjU5ByCVPceVeofZbxgvFnDqvO6nUrTEd2g6k/wvjswH3zXmKRMAbj71M8F8TXfCeuw6lbZaMfDcQjpNH5j5+Y9RSDraPXJYBST0G9VnUBa61FNb6hAktrMpQxyqPwkY2PUbVIpqdpqOl213ZziS2vF5o5F81/vauitypHKMjPfpRS9A2eXePuFbvg7XpLCYs9uw57W4P+rH/UdCPTPQ1CROx2JyO1ekPbTZadecB3k15JH49oVltnyM85YDlHzBIrzdANzQG8HaHahJxXKNqBjUK6CM1JlyKMaQc7UBg3PXUnmuqDC8jczY6DyoCeUYHXuK4bCuwWOagA/NyFWU7jz9O1LswZQy9PSmrkbbUdX5DjyO/1qAaDlt6BsMpB86IxyTjyoVbaiChMDlBQ78vQ9xSUnWnL5dDj8adB6edN5MEZHSox4mw+wXW5Jo9Q0CeTmSMC5tlPVd8SD5bqfv3rYkPh5DeQrzH7Kr1rLj7SCGKpLKYXA8w6kY++PtXo7Xr4aRoWo36rlrS2kmX1KrkUU9Aa2Yf7a+IvetVj4ftm/wC3sDzzkdHmIG3/ABG3zJrPLc0ncSyTyNNO5eWRizserMTkk/UmlbYdaAfB3nbek3PajUVxQEEGY0RFeRwqDJNGerBwjZrLdBpNwDSzlxRbjhydEWNGviAfA611bGoteUfCOldVPys0/WRiTnJxQr2ouMHNGPStBjONAx+CgNAcch+dQIfNAhw1Fye1d55qAoUBwQaSlXlb4eh3Ao4NAw+H5bioRAafdPYX9teRgF7eVJVB8yrA/wAq9Se0ImTgbX3tipDWDspzsVxn9s15UYeVemp7ltV9lUWOUS6jpHhJg7B/BY4+6YooLPMx/APQ0pDJyZ6/aiDeJj8v3/8AdcooMg58cHzrjKO9N8elDy+lAgd3z0qe0S8WJQuSD3qvYoUdkOVJpJx5Isxy4uy9e/v/AOU0NVMSyEA81dWf4TX9hH//2Q=="
+                },
+                {
+                    "name": "Glen Powell",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCez131Tx39xxn3Gxuh-RY5VtVFOslXiXRkbPJoM6Lw&s"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "left": "900%",
+            "Title": "Doctor Strange 2",
+            "Year": "2022",
+            "imdbID": "tt9419884",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg",
+            "storyline": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.",
+            "trailer": "https://www.youtube.com/embed/aWzlQ2N6qqg",
+            "cast": [
+                {
+                    "name": "Benedict",
+                    "pic": "https://media.vanityfair.com/photos/62753eaaeddf13ef7f5bedf6/3:4/w_999,h_1332,c_limit/doctor-strange-in-the-multiverse-of-madness-premiere-2022-benedict-cumberbatch.jpg"
+                },
+                {
+                    "name": "Elizabeth Olsen",
+                    "pic": "https://media1.popsugar-assets.com/files/thumbor/eSZNVlWCDHsP-VwjrRJrRf3EN48/0x24:2000x2024/fit-in/500x500/filters:format_auto-!!-:strip_icc-!!-/2020/05/13/045/n/1922398/e8decc595ebc8b217b9262.72649682_/i/Elizabeth-Olsen.jpg"
+                },
+                {
+                    "name": "Xochitl Gomez",
+                    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ004SIlZ753NdRcpzFWAGD8pg8nZnhADH2Ui9FHScplA&s"
+                },
+                {
+                    "name": "Rachel McAdams",
+                    "pic": "https://ca-times.brightspotcdn.com/dims4/default/ed1e9a3/2147483647/strip/true/crop/1600x900+0+0/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F42%2F47%2Fc26da65b872629a4cdf913f7ff5f%2Fla-et-mn-rachel-mcadams-20150724-001"
+                }
+            ]
+        }
+    ]
+}

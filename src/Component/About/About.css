@@ -1,0 +1,196 @@
+#aboutCont {
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#imageCircle {
+  height: 300px;
+  width: 300px;
+  background-color: grey;
+  position: relative;
+  bottom: 140px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 15px black;
+  background-image: url('./img.jpg');
+  background-size: 100% 100%;
+  background-position: center;
+  cursor: pointer;
+  /* ------ 😊😎 ----*/
+  filter: brightness(1.3);
+}
+
+#hi {
+  position: absolute;
+  bottom: 40%;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+
+#hand {
+  font-size: 40px;
+  position: absolute;
+  left: 60%;
+  bottom: 40%;
+  transition: 0.1s;
+  animation: hiier 1s linear infinite;
+  font-size: 25px;
+}
+
+@keyframes hiier {
+  9% {
+    transform: rotate(0deg);
+  }
+
+  10% {
+    transform: rotate(20deg);
+  }
+
+  20% {
+    transform: rotate(0deg);
+  }
+
+  30% {
+    transform: rotate(-20deg);
+  }
+
+  40% {
+    transform: rotate(20deg);
+  }
+
+  50% {
+    transform: rotate(0deg);
+  }
+
+  60% {
+    transform: rotate(-20deg);
+  }
+
+  70% {
+    transform: rotate(0deg);
+  }
+}
+
+#about {
+  position: absolute;
+  bottom: 35%;
+  letter-spacing: 2px;
+  font-size: 15px;
+}
+
+.portf {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 2px solid rgb(0, 0, 0);
+  cursor: pointer;
+  border-radius: 50%;
+  bottom: 25%;
+}
+
+#git {
+  background-image: url('file:///C:/Users/Ayush/Desktop/Reactflix%20Movies/src/Component/About/icons8-github.gif');
+  left: 44%;
+}
+
+#insta {
+  background-image: url('file:///C:/Users/Ayush/Desktop/Reactflix%20Movies/src/Component/About/icons8-instagram.gif');
+  background-size: 120% 120%;
+  left: 49%;
+}
+
+#fb {
+  background-image: url('file:///C:/Users/Ayush/Desktop/Reactflix%20Movies/src/Component/About/icons8-facebook.gif');
+  left: 54%;
+}
+
+.mode {
+  position: absolute;
+  font-size: 30px;
+  bottom: 80%;
+  left: 15%;
+  cursor: pointer;
+}
+
+#para {
+  height: 10vh;
+  width: 70%;
+  position: absolute;
+  bottom: 8%;
+  font-size: 13px;
+  padding: 1%;
+  letter-spacing: 2px;
+}
+
+
+@media screen and (max-width:818px) {
+  #hand {
+    left: 65%;
+  }
+
+  #git {
+    left: 38%;
+  }
+
+  #insta {
+    left: 49%;
+  }
+
+  #fb {
+    left: 60%;
+  }
+
+  #para {
+    height: 10vh;
+    width: 80%;
+  }
+}
+
+@media screen and (max-width:558px) {
+  #hand {
+    left: 70%;
+  }
+}
+
+@media screen and (max-width:479px) {
+  #imageCircle {
+    height: 250px;
+    width: 250px;
+  }
+
+  .mode {
+    position: absolute;
+    font-size: 30px;
+    bottom: 93%;
+    left: 45%;
+    cursor: pointer;
+  }
+  
+  #hi {
+
+    font-size: 15px;
+  }
+
+  #about {
+    font-size: 13px;
+    letter-spacing:1.5px;
+  }
+
+  #para {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width:391px) {
+  #hand {
+    left: 75%;
+  }
+}
