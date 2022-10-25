@@ -20,19 +20,23 @@ export default function Navbar(props) {
         <h1 onClick={() => navigate('/') || props.translater('0%')}>
           <abbr style={{ textDecoration: 'none' }} title="Home"> Home</abbr>
         </h1>
-
+        &nbsp; {/* ------- some how css gap not working on responsive that why i use this &nbsp; */}
+        &nbsp;
         <h1 onClick={() => navigate('/movies')}>
           <abbr style={{ textDecoration: 'none' }} title="Movies Page">Movies</abbr>
         </h1>
-
+        &nbsp;
+        &nbsp;
         <h1 onClick={() => navigate('/tvshows')}>
           <abbr style={{ textDecoration: 'none' }} title="Shows Page">TvShows</abbr>
         </h1>
-
+        &nbsp;
+        &nbsp;
         <h1 onClick={() => navigate('/about')}>
           <abbr style={{ textDecoration: 'none' }} title="About Page">About</abbr>
         </h1>
-
+        &nbsp;
+        &nbsp;
         <div onClick={() => props.updater('60%')} id='hamBar' style={hamStyle} >
           <abbr style={{ textDecoration: 'none' }} title="menu">☰</abbr>
         </div>
