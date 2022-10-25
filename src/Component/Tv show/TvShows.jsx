@@ -20,6 +20,7 @@ export default function TvShows() {
   return (
     <>
       <div className='Cont'>
+        <div id='blurback'></div>
         <div id="showsPageHead">
           <input id='searchBox' placeholder='Enter Tv Show' type={"text"} onChange={(e) => updateSearch(e.target.value)} />
           <button id='search' onClick={() => SearchInput === "" ? null : updateSearchMovie(SearchInput)}></button>
