@@ -64,6 +64,10 @@
     bottom: -19%;
     overflow-x: hidden;
     padding: 1%;
+    background-image: url(https://consequence.net/wp-content/uploads/2022/02/CoS-HERO_Animation_1200x675.jpg?quality=80&w=1031&h=580&crop=1&resize=1031%2C580&strip);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #shows {
