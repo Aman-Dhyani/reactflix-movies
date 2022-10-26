@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import MoviesData from './HomeCarouselData.json'
 import Heart from '../Fav/Heart'
 import Fav from '../Fav/Fav'
@@ -7,6 +7,15 @@ import './Home.css'
 export default function Home(props) {
 
   const [count, setCount] = useState(0)
+
+  useEffect(() => {
+    setCount(JSON.parse(window.sessionStorage.getItem("count")));
+  }, []);
+
+  useEffect(() => {
+    window.sessionStorage.setItem("count", count);
+  }, [count]);
+
   const [iframeSRC, setSRC] = useState()
   const [show, updateShow] = useState('hide')
   const [toggleCast, updateShowCast] = useState(-100)
