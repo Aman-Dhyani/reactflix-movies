@@ -97,18 +97,18 @@
 }
 
 #git {
-  background-image: url('file:///C:/Users/Ayush/Desktop/Reactflix%20Movies/src/Component/About/icons8-github.gif');
+  background-image: url('./icons8-github.gif');
   left: 44%;
 }
 
 #insta {
-  background-image: url('file:///C:/Users/Ayush/Desktop/Reactflix%20Movies/src/Component/About/icons8-instagram.gif');
+  background-image: url('./icons8-instagram.gif');
   background-size: 120% 120%;
   left: 49%;
 }
 
 #fb {
-  background-image: url('file:///C:/Users/Ayush/Desktop/Reactflix%20Movies/src/Component/About/icons8-facebook.gif');
+  background-image: url('./icons8-facebook.gif');
   left: 54%;
 }
 
@@ -173,7 +173,7 @@
     left: 45%;
     cursor: pointer;
   }
-  
+
   #hi {
 
     font-size: 15px;
@@ -181,7 +181,7 @@
 
   #about {
     font-size: 13px;
-    letter-spacing:1.5px;
+    letter-spacing: 1.5px;
   }
 
   #para {
